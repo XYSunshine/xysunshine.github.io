@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-Some information about you!
+一名开发爱好者。记录自己遇到的问题
 
-### More Information
+### 简单介绍
 
-A place to include any other types of information that you'd like to include about yourself.
+目前主要使用的语言是Python。在尝试的学go。
 
-### Contact me
+### 联系邮箱
 
-[email@domain.com](mailto:email@domain.com)
+[yxie0203@gmail.com](mailto:email@domain.com)
